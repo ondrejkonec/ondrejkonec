@@ -9,6 +9,7 @@
 [<img align="left" alt="E-mail me" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_gmail_1873613.svg" />](mailto:ondrej.konecny@gmail.com)
 [<img align="left" alt="Message me on FB" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_facebook-messenger_1864209.svg" />](https://m.me/ondra.konecny)
 
+<br>
 
 ### Connect with me:
 
