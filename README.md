@@ -11,10 +11,10 @@
 <br>
 
 ### Languages and tools:
-[<img align="left" alt="HTML" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_167_Html5_logo_logos_4373229.svg" />]
-[<img align="left" alt="CSS" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_187_Js_logo_logos_4373213.svg" />]
-[<img align="left" alt="JS" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_badge-css-3_317756.svg" />]
-[<img align="left" alt="JS" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/css-5.svg" />]
+<img align="left" alt="HTML" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_167_Html5_logo_logos_4373229.svg" />
+<img align="left" alt="CSS" width="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_187_Js_logo_logos_4373213.svg" />
+<img align="left" alt="JS" width="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_badge-css-3_317756.svg" />
+<img align="left" alt="JS" width="40px" src="http://www.ondrejkonecny.cz/assets/svg/css-5.svg" />
 
 <br>
 <br>
