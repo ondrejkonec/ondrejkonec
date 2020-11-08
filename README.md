@@ -5,5 +5,14 @@
 - 👯 I’m looking to collaborate on project, where the web design needs to be improved
 
 ## Connect with me:
+
 [<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />][website]
 
+<br>
+
+## Languages and tools:
+[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />][website]
+
+<br>
+<br>
+[website]: http://www.ondrejkonecny.cz/
