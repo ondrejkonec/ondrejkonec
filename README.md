@@ -20,6 +20,8 @@
 <img align="left" alt="XD" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_3_Xd_Adobe_logo_logos_4373061.svg" />
 <img align="left" alt="GitHub" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_github-social-media_765246.svg" />
 
+### 📕 Latest Blog Posts:
+[Vývoj efektivity zápisu CSS (Czech)](https://medium.com/@ondrej.konecny/efektivn%C3%AD-stylov%C3%A1n%C3%AD-od-html-element%C5%AF-po-styled-components-be9198308904)
 
 
 <br>
