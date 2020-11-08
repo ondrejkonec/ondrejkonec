@@ -11,6 +11,7 @@
 <br>
 
 ### Languages and tools:
+
 <img align="left" alt="HTML" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_167_Html5_logo_logos_4373229.svg" />
 <img align="left" alt="JS" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_badge-css-3_317756.svg" />
 <img align="left" alt="CSS" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_187_Js_logo_logos_4373213.svg" />
@@ -19,6 +20,8 @@
 <img align="left" alt="Figma" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_Figma_1_square_2925245.svg" />
 <img align="left" alt="XD" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_3_Xd_Adobe_logo_logos_4373061.svg" />
 <img align="left" alt="GitHub" height="40px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_github-social-media_765246.svg" />
+
+<br>
 
 ### 📕 Latest Blog Posts:
 [Vývoj efektivity zápisu CSS (Czech)](https://medium.com/@ondrej.konecny/efektivn%C3%AD-stylov%C3%A1n%C3%AD-od-html-element%C5%AF-po-styled-components-be9198308904)
