@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />][website]
+[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />](website)
 
 <br>
 
