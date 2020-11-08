@@ -6,9 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_Internet_Line-02_1587499.svg" />](http://www.ondrejkonecny.cz/)
-[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />](https://twitter.com/ondrejkonecny)
-[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_linkedin_circle_294706.svg" />](https://www.linkedin.com/in/ondrejkonec/)
+[<img align="left" alt="Personal web site" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_Internet_Line-02_1587499.svg" />](http://www.ondrejkonecny.cz/)
+[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_twitter_1543317.svg" />](https://twitter.com/ondrejkonecny)
+[<img align="left" alt="Linkedin account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_linkedin_1727490.svg" />](https://www.linkedin.com/in/ondrejkonec/)
+[<img align="left" alt="Dribble account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_dribblbe_1727491.svg" />](https://dribbble.com/ondrejko/)
 
 <br>
 
