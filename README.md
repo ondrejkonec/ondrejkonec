@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter account" width="22px" src="iconfinder_Internet_Line-02_1587499.svg" />](http://www.ondrejkonecny.cz/)
+[<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_Internet_Line-02_1587499.svg" />](http://www.ondrejkonecny.cz/)
 [<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_twitter_circle_294709.svg" />](https://twitter.com/ondrejkonecny)
 [<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_linkedin_circle_294706.svg" />](https://www.linkedin.com/in/ondrejkonec/)
 
