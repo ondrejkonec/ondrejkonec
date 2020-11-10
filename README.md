@@ -20,5 +20,6 @@
 ---
 
 ### 📕 Latest Blog Posts:
+[Co je to Box Model (CZ)](https://frontend.garden/jak-funguje-css-box-model/)
 [Vývoj efektivity zápisu CSS (CZ)](https://medium.com/@ondrej.konecny/efektivn%C3%AD-stylov%C3%A1n%C3%AD-od-html-element%C5%AF-po-styled-components-be9198308904)
 
