@@ -1,8 +1,10 @@
 # I'm independent web and UI designer/developer 👋
 
-- 🔭 I’m currently creating design system for RENOMIA, a.s. and their insurance applications
-- 🌱 I’m currently learning from book "Form Design Patterns" by Adam Silver
-- 👯 I’m looking to collaborate on project, where the web design or UI needs to be improved
+- 🎨 I’m currently creating design system for RENOMIA, a.s. internal applications
+- 💻 Also creating front-end for Elpida.cz - Czech organization that helps seniors
+- 📖 I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
+- 📚 Next book on my list is "Refactoring UI" by Steve Schoger & Adam Wathan
+- 🆓 I’m available for new front-end collaborations with designers
 
 
 ### Connect with me:
@@ -11,8 +13,6 @@
 [<img align="left" alt="Twitter account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_twitter_1543317.svg" />](https://twitter.com/ondrejkonecny)
 [<img align="left" alt="Linkedin account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_linkedin_1727490.svg" />](https://www.linkedin.com/in/ondrejkonec/)
 [<img align="left" alt="E-mail me" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_gmail_1873613.svg" />](mailto:ondrej.konecny@gmail.com)
-[<img align="left" alt="Message me on FB" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_facebook-messenger_1864209.svg" />](https://m.me/ondra.konecny)
-[<img align="left" alt="Dribble account" width="22px" src="http://www.ondrejkonecny.cz/assets/svg/iconfinder_social-media_dribblbe_1727491.svg" />](https://dribbble.com/ondrejko/)
 
 
 <br>
