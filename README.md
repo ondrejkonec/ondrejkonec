@@ -1,10 +1,10 @@
 # I'm independent Front-End UI/design Developer 👋
 
-- 🎨 I’m currently creating design system for RENOMIA, a.s. internal applications
-- 💻 Also creating front-end for Elpida.cz - Czech organization that helps seniors
+- 🎨 I’m currently creating design system for **RENOMIA, a.s.** and their internal applications
+- 💻 Also creating front-end and coding prototypes for **Elpida.cz** - Czech organization that helps seniors
 - 📖 I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
-- 📚 Next book on my list is "Refactoring UI" by Steve Schoger & Adam Wathan
-- 🆓 I’m available for new front-end collaborations with designers
+- 📚 Next book on my list is "**Refactoring UI**" by Steve Schoger & Adam Wathan
+- 🆓 I’m **available** for new front-end collaborations with designers
 
 
 ### Connect with me:
