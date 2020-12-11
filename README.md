@@ -1,4 +1,4 @@
-# I'm independent web and UI designer/developer 👋
+# I'm independent Front-End UI/design Developer 👋
 
 - 🎨 I’m currently creating design system for RENOMIA, a.s. internal applications
 - 💻 Also creating front-end for Elpida.cz - Czech organization that helps seniors
