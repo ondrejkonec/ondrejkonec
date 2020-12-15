@@ -4,7 +4,7 @@
 - 💻 Also creating front-end and coding prototypes for **Elpida.cz** - Czech organization that helps seniors
 - 📖 I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
 - 📚 Next book on my list is "**Refactoring UI**" by Steve Schoger & Adam Wathan
-- 🆓 I’m **available** for new front-end collaborations with designers
+- 🆓 I’m **available** for new front-end collaborations with designers and developers.
 
 
 ### Connect with me:
