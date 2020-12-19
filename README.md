@@ -1,4 +1,4 @@
-# Independent web developer and web designer 👋
+# Independent web developer and web designer
 
 - 🎨 I’m currently creating design system for **RENOMIA, a.s.** and their internal applications
 - 💻 Also creating front-end and UI for **Elpida.cz** - Czech organization that helps seniors
