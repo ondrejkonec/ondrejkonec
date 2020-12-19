@@ -1,24 +1,24 @@
-# Books I've Read & Want to Read
+# Books I've read and want to read
 
 List of books that I've read in past with my todo list for current year.
 
-### Leden
+### January
 
 - [ ] Kafka na Pobřeží -- Haruki Murakami (2002)
 - [ ] Form Design Patterns -- Adam Silver (2018)
 - [ ] Design System -- Alla Kholmatova (2017)
 
-### Únor
+### February
 
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
 - [ ] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
 
-### Březen
+### March
 
 - [ ] Havel -- Michael Žantovský (2014)
 
-### Duben
+### April
 
 - [ ] Zodiac -- L. Gary Stewart (2014)
 
