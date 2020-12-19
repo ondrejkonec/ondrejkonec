@@ -3,7 +3,7 @@
 - 🎨 I’m currently creating design system for **RENOMIA, a.s.** and their internal applications
 - 💻 Also creating front-end and UI pattern library for **Elpida.cz** - Czech organization that helps seniors
 - 📖 I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
-- ✏️ I’m currently writing blog post about "**Print design and CSS**"
+- ✏️ I’m currently writing article about "**Print design and CSS**"
 - 💼 I’m **available** for new front-end collaborations with designers and developers.
 
 
