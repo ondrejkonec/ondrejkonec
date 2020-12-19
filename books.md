@@ -23,7 +23,6 @@ List of books that I've read in past with my todo list for current year.
 
 - [ ] Zodiac -- L. Gary Stewart (2014)
 
----
 ## 2020
 
 Books that I've finished during the year of 2020.
