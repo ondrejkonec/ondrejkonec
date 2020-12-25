@@ -8,20 +8,25 @@ List of books that I've read in past with my todo list for current year.
 - [ ] Kafka na Pobřeží -- Haruki Murakami (2002)
 - [ ] Form Design Patterns -- Adam Silver (2018)
 - [ ] Design System -- Alla Kholmatova (2017)
+- [ ] Laura Kalbag - Accessibility for Everyone (2017)
+- [ ] Guide to MVP Design System -- Stacey Eddy (2020)
 
 ### February
 
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
 - [ ] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
+- [ ] Regine M. Gilbert - Inclusive Design for a Digital World Designing with Accessibility in Mind (2019)
 
 ### March
 
 - [ ] Havel -- Michael Žantovský (2014)
-
+- [ ] A Web for Everyone (Designing Accessible User Experiences) -- Sarah Horton (2014)
+- [ ] Inclusive Design Patterns -- Pickering Heydon (2016)
 ### April
 
 - [ ] Zodiac -- L. Gary Stewart (2014)
+- [ ] Designing with Web standards Description -- Zeldman Jeffrey(2003)
 
 ## 2020
 
