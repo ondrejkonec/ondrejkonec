@@ -1,6 +1,6 @@
 # My personal library
 
-List of books that I've read in past with my todo list for current year.
+List of books that I've read in past with my todo list for current year. Very ambitious.
 
 ## 2021
 ### January
