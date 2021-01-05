@@ -16,17 +16,18 @@ List of books that I've read in past with my todo list for current year. Very am
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
 - [ ] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
-- [ ] Regine M. Gilbert - Inclusive Design for a Digital World Designing with Accessibility in Mind (2019)
+- [ ] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
 
 ### March
 
 - [ ] Havel -- Michael Žantovský (2014)
 - [ ] A Web for Everyone (Designing Accessible User Experiences) -- Sarah Horton (2014)
 - [ ] Inclusive Design Patterns -- Pickering Heydon (2016)
+- [ ] Inclusive Design for a Digital World Designing with Accessibility in Mind -- Regine M. Gilbert (2019)
 ### April
 
 - [ ] Zodiac -- L. Gary Stewart (2014)
-- [ ] Designing with Web standards Description -- Zeldman Jeffrey(2003)
+- [ ] Designing with Web standards Description -- Zeldman Jeffrey (2003)
 
 ## 2020
 
