@@ -1,10 +1,9 @@
 # Independent web developer and web designer
 
-- 🎨 I’m currently creating design system for **RENOMIA, a.s.** and their internal applications
-- 💻 Also creating front-end and UI pattern library for **Elpida.cz** - Czech organization that helps seniors
-- 📖 I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
-- ✏️ I’m currently writing article about "**Print design and CSS**"
-- 💼 I’m **available** for new front-end collaborations with designers and developers.
+- 🎨  I’m currently creating design system for **RENOMIA, a.s.** and their internal applications
+- 💻  Also creating web design and front-end for **Elpida.cz** - Czech organization that helps seniors
+- 📖  I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**Design Systems**" by Alla Kholmatova
+- ✏️  I’m currently writing article about "**Design Systems**"
 
 
 ### Connect with me:
