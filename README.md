@@ -10,7 +10,6 @@
 
 [www.ondrejkonecny.cz](https://www.ondrejkonecny.cz/kontakt/)
 
-<br>
 
 ---
 I have [created a list of books](https://github.com/ondrejko/ondrejko/blob/main/books.md) I want to read for 2021.
