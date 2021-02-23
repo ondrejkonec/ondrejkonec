@@ -5,9 +5,9 @@ List of books that I've read in past with my todo list for current year. Very am
 ## 2021
 ### January
 
-- [ ] Kafka na Pobřeží -- Haruki Murakami (2002)
+- [] Kafka na Pobřeží -- Haruki Murakami (2002)
 - [ ] Form Design Patterns -- Adam Silver (2018)
-- [ ] Design System -- Alla Kholmatova (2017)
+- [x] Design System -- Alla Kholmatova (2017)
 
 ### February
 
