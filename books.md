@@ -12,7 +12,8 @@ List of books that I've read in past with my todo list for current year. Very am
 ### February
 
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
-- [ ] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
+- [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
+- [ ] Pattern Language -- Christopher Alexander (1977)
 
 ### March
 - [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
