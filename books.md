@@ -19,13 +19,27 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Designing with Web standards Description -- Zeldman Jeffrey (2003)
 - [ ] Laura Kalbag - Accessibility for Everyone (2017)
 - [ ] Guide to MVP Design System -- Stacey Eddy (2020)
+- [ ] When Coffee and Kale Compete -- Alan Klement (2018)
+- [ ] Designing Web Interfaces -- Bill Scott (2009)
+- [ ] Practical SVG -- Chris Coyier (2016)
+- [ ] A Pattern Language -- Christopher Alexander (1977)
+- [ ] The Timeless Way of Building -- Christopher Alexander (1979)
+- [ ] Universal Principles of Design -- William Lidwell (2003)
+- [ ] UX Strategy: How to Devise Innovative Digital Products that People Want -- Jaime Levy (2015)
+- [ ] Lean UX: Applying Lean Principles to Improve User Experience -- Jeff Gothelf, Josh Seiden (2013)
+- [ ] Designing Interfaces -- Jenifer Tidwell (2005)
+- [ ] Outcomes Over Output -- Josh Seiden (2019)
+- [ ] Going Responsive -- Karen McGrane (2015)
+- [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner (2017)
+- [ ] Smashing Book 5 -- Smashing Magazine (2016)
+- [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
+- [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
+
 
 ## 2020
-
-Books that I've finished during the year of 2020.
-
 - [x] Front-end Style Guides -- Anna Debenham (2017)
 - [x] Architecting CSS -- Martine Dowden, Michael Dowden (2020)
+- [x] The New CSS Layout -- Rachel Andrew (2017)
 
 ## 2019
 - [x] Get Ready for CSS Grid Layout -- Rachel Andrew (2016)
