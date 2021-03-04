@@ -4,7 +4,6 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ## 2021
 ### Read
-
 - [x] Design System -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 ### Want to read
