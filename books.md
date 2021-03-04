@@ -65,6 +65,9 @@ List of books that I've read in the past and todo list for current year. Very am
 ## 2015
 - [x] HTML5 for Web Designers -- Jeremy Keith (2010)
 - [x] CSS3 for Web Designers -- Dan Cederholm (2010)
+- [x] JQuery Cookbook -- Cody Lindley (2009)
 
 ## 2014
 - [x] HTML5 a CSS3 -- Elizabeth Castro, Bruce Hyslop (2012)
+- [x] PHP & MySQL - Web Development -- Laura Thomson, Luke Welling (2001)
+- [x] JavaScript: The Definitive Guide -- David Flanagan (1996)
