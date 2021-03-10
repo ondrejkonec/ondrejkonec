@@ -8,6 +8,9 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 ### Want to read
 - [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
+- [ ] Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines -- Jeff Johnson (2010)
+- [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Designing for Emotion -- Aarron Walter (2011)
 - [ ] Form Design Patterns -- Adam Silver (2018)
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
 - [ ] Pattern Language -- Christopher Alexander (1977)
