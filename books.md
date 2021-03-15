@@ -6,8 +6,13 @@ List of books that I've read in the past and todo list for current year. Very am
 ### Read
 - [x] Design System -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
+- [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
 ### Want to read
-- [ ] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
+- [ ] Digital Design Essentials: 100 ways to design better desktop, web, and mobile interfaces -- Rajesh Lal (2013)
+- [ ] Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions -- Bella Martin (2012)
+- [ ] Simple and Usable: Web, Mobile, and Interaction Design (Voices That Matter) -- Giles Colborne (2010)
+- [ ] Design for the Mind: Seven Psychological Principles of Persuasive Design -- Victor Yocco (2016)
+- [ ] Layout Essentials: 100 Design Principles for Using Grids -- Beth Tondreau (2011)
 - [ ] Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines -- Jeff Johnson (2010)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] Designing for Emotion -- Aarron Walter (2011)

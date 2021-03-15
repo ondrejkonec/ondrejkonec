@@ -1,8 +1,8 @@
 # Independent web developer and web designer
 
-- 🎨  I’m currently working on redesign of my personal website
-- 📖  I’m currently reading book called "**Form Design Patterns**" by Adam Silver and "**The Timeless Way of Building**" by Christopher Alexander
-- ✏️  I’m currently writing article about "**Design Tokens**"
+- 🎨  I’m currently working on UX for Elpida.cz
+- 📖  I’m currently reading book called "**Form Design Patterns**" by Adam Silver
+- ✏️  I’m currently writing article about "**Grid**"
 
 
 ### Connect with me:
