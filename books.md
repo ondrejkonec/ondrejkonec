@@ -4,7 +4,7 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ## 2021
 ### Read
-- [x] Design System -- Alla Kholmatova (2017)
+- [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
 ### Want to read
