@@ -8,6 +8,9 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
 ### Want to read
+- [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Color Accessibility Workflows -- Geri Coady (2017)*
+- [ ] The Laws of Simplicity -- John Maeda (2006)*
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
 - [ ] Design for the Mind: Seven Psychological Principles of Persuasive Design -- Victor Yocco (2016)
 - [ ] The Principles of Beautiful Web Design -- Jason Beaird (2010)
@@ -18,7 +21,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Design for How People Think - Using Brain Science to Build Better Products -- D John Whalen Ph (2019)
 - [ ] Simple and Usable: Web, Mobile, and Interaction Design (Voices That Matter) -- Giles Colborne (2010)
 - [ ] Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines -- Jeff Johnson (2010)
-- [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] Designing for Emotion -- Aarron Walter (2011)
 - [ ] Form Design Patterns -- Adam Silver (2018)
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)

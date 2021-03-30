@@ -1,8 +1,8 @@
 # Independent web developer and web designer
 
-- 🎨  I’m currently working on UX for Elpida.cz and design system for RENOMIA, a. s.
+- 🎨  I’m currently working on prototypes for Elpida.cz and creating design system for RENOMIA, a. s.
 - 📖  I’m currently reading book called "**Form Design Patterns**" by Adam Silver
-- ✏️  I’m currently writing article about "**Grid**"
+- ✏️  I’m currently writing article about "**How to code websites**"
 
 
 ### Connect with me:
