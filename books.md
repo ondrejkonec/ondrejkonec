@@ -7,9 +7,11 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
 - [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
+- [x] Form Design Patterns -- Adam Silver (2018)
+- [x] Color Accessibility Workflows -- Geri Coady (2017)*
 ### Want to read
+- [ ] UX for Beginners -- Joel Marsh (2015)*
 - [ ] The Design of Everyday Things -- Don Norman (1988)
-- [ ] Color Accessibility Workflows -- Geri Coady (2017)*
 - [ ] The Laws of Simplicity -- John Maeda (2006)*
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
 - [ ] Design for the Mind: Seven Psychological Principles of Persuasive Design -- Victor Yocco (2016)
@@ -22,7 +24,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Simple and Usable: Web, Mobile, and Interaction Design (Voices That Matter) -- Giles Colborne (2010)
 - [ ] Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines -- Jeff Johnson (2010)
 - [ ] Designing for Emotion -- Aarron Walter (2011)
-- [ ] Form Design Patterns -- Adam Silver (2018)
 - [ ] Building Design Systems -- Sarrah Vesselov, Taurie Davis (2019)
 - [ ] Pattern Language -- Christopher Alexander (1977)
 - [ ] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
