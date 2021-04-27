@@ -1,4 +1,4 @@
-# Independent Product Designer and Front-End Developer
+# UX/UI Designer and Front-End Developer
 
 - 🎨  I’m currently working on prototypes for Elpida.cz and creating design system for RENOMIA, a. s.
 - 📖  I’m currently reading book called "**UX for Beginners**" by Joel Marsh
