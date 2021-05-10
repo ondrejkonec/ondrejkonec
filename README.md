@@ -1,7 +1,6 @@
 # UX/UI Designer and Front-End Developer
 
-- 🎨  I’m currently working on prototypes for Elpida.cz and creating design system for RENOMIA, a. s.
-- 📖  I’m currently reading book called "**UX for Beginners**" by Joel Marsh
+- 📖  I’m currently reading book called "**Building Design Systems: Unify User Experiences Through a Shared Design Language**" by Sarrah Vesselov and Taurie Davis
 - ✏️  I’m currently writing article about "**Accessible colors**"
 
 
