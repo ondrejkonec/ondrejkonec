@@ -9,8 +9,8 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
 - [x] Form Design Patterns -- Adam Silver (2018)
 - [x] Color Accessibility Workflows -- Geri Coady (2017)*
+- [x] UX for Beginners -- Joel Marsh (2015)*
 ### Want to read
-- [ ] UX for Beginners -- Joel Marsh (2015)*
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] The Laws of Simplicity -- John Maeda (2006)*
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
