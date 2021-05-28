@@ -43,7 +43,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Lean UX: Applying Lean Principles to Improve User Experience -- Jeff Gothelf, Josh Seiden (2013)
 - [ ] Designing Interfaces -- Jenifer Tidwell (2005)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
-- [ ] Going Responsive -- Karen McGrane (2015)
 - [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner (2017)
 - [ ] Smashing Book 5 -- Smashing Magazine (2016)
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
@@ -51,19 +50,20 @@ List of books that I've read in the past and todo list for current year. Very am
 
 
 ## 2020
+- [x] Atomic Design -- Brad Frost (2016)
 - [x] Front-end Style Guides -- Anna Debenham (2017)
 - [x] Architecting CSS -- Martine Dowden, Michael Dowden (2020)
 - [x] The New CSS Layout -- Rachel Andrew (2017)
 
 ## 2019
 - [x] Get Ready for CSS Grid Layout -- Rachel Andrew (2016)
-- [x] Atomic Design -- Brad Frost (2016)
-- [x] Bulletproof Web Design - Dan Cederholm (2005)
+- [x] The New CSS Layout -- Rachel Andrew (2017)
+- [x] Inclusive Design Patterns - Coding Accessibility Into Web Design -- Heydon Pickering (2016)
+- [x] CSS Mastery: Advanced Web Standards Solutions - Andy Budd, Emil Björklund (2016)
 ## 2018
 - [x] Jump start Sass -- Miriam Suzanne (2016)
 - [x] CSS Secrets: Better Solutions to Everyday Web Design Problems -- Lea Verou (2014)
 - [x] Responsive Design: Patterns & Principles -- Ethan Marcotte (2015)
-- [x] Jump start Sass -- Miriam Suzanne (2016)
 
 ## 2017
 - [x] Vzhůru do (responziv­ního) webdesignu - Martin Michálek (2017)
@@ -75,6 +75,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Vzhůru do CSS3 -- Martin Michálek (2015)
 - [x] Sass for Web Designers -- Dan Cederholm (2013)
 - [x] HTML Semantics -- Smashing Magazine (2012)
+- [x] Going Responsive -- Karen McGrane (2015)
 
 ## 2015
 - [x] HTML5 for Web Designers -- Jeremy Keith (2010)
@@ -83,5 +84,10 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ## 2014
 - [x] HTML5 a CSS3 -- Elizabeth Castro, Bruce Hyslop (2012)
+- [x] PHP & MySQL - Web Development -- Laura Thomson, Luke Welling (2001)
+- [x] JavaScript: The Definitive Guide -- David Flanagan (1996)
+
+## 2013
+- [x] Bulletproof Web Design (2005)
 - [x] PHP & MySQL - Web Development -- Laura Thomson, Luke Welling (2001)
 - [x] JavaScript: The Definitive Guide -- David Flanagan (1996)
