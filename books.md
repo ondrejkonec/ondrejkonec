@@ -61,15 +61,15 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Inclusive Design Patterns - Coding Accessibility Into Web Design -- Heydon Pickering (2016)
 - [x] CSS Mastery: Advanced Web Standards Solutions - Andy Budd, Emil Björklund (2016)
 ## 2018
-- [x] Jump start Sass -- Miriam Suzanne (2016)
 - [x] CSS Secrets: Better Solutions to Everyday Web Design Problems -- Lea Verou (2014)
 - [x] Responsive Design: Patterns & Principles -- Ethan Marcotte (2015)
+- [x] Responsible Responsive Design - Scott Jehl (2011)
 
 ## 2017
 - [x] Vzhůru do (responziv­ního) webdesignu - Martin Michálek (2017)
 - [x] Responsive Web Design - Ethan Marcotte (2011)
-- [x] Responsible Responsive Design - Scott Jehl (2011)
 - [x] Introducing Bootstrap 4 - Jörg Krause (2016)
+- [x] Jump start Sass -- Miriam Suzanne (2016)
 
 ## 2016
 - [x] Vzhůru do CSS3 -- Martin Michálek (2015)
@@ -80,9 +80,9 @@ List of books that I've read in the past and todo list for current year. Very am
 ## 2015
 - [x] HTML5 for Web Designers -- Jeremy Keith (2010)
 - [x] CSS3 for Web Designers -- Dan Cederholm (2010)
-- [x] JQuery Cookbook -- Cody Lindley (2009)
 
 ## 2014
+- [x] JQuery Cookbook -- Cody Lindley (2009)
 - [x] HTML5 a CSS3 -- Elizabeth Castro, Bruce Hyslop (2012)
 - [x] PHP & MySQL - Web Development -- Laura Thomson, Luke Welling (2001)
 - [x] JavaScript: The Definitive Guide -- David Flanagan (1996)
