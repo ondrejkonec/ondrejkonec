@@ -1,6 +1,6 @@
 # UX/UI Designer and Front-End Developer
 
-- 📖  I’m currently reading book called "**Building Design Systems: Unify User Experiences Through a Shared Design Language**" by Sarrah Vesselov and Taurie Davis
+- 📖  I’m currently reading book called "**Universal Principles of Design**" by William Lidwell
 - ✏️  I’m currently writing article about "**Accessible colors**"
 
 
