@@ -11,7 +11,9 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Color Accessibility Workflows -- Geri Coady (2017)
 - [x] UX for Beginners -- Joel Marsh (2015)
 - [x] Building Design Systems: Unify User Experiences Through a Shared Design Language -- Sarrah Vesselov, Taurie Davis (2019)
+- [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
 ### Want to read
+- [ ] Designing Interfaces -- Jenifer Tidwell (2005) *
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] The Laws of Simplicity -- John Maeda (2006)
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
@@ -41,7 +43,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Universal Principles of Design -- William Lidwell (2003)
 - [ ] UX Strategy: How to Devise Innovative Digital Products that People Want -- Jaime Levy (2015)
 - [ ] Lean UX: Applying Lean Principles to Improve User Experience -- Jeff Gothelf, Josh Seiden (2013)
-- [ ] Designing Interfaces -- Jenifer Tidwell (2005)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
 - [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner (2017)
 - [ ] Smashing Book 5 -- Smashing Magazine (2016)
