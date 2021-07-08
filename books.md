@@ -14,6 +14,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
 ### Want to read
 - [ ] Designing Interfaces -- Jenifer Tidwell (2005) *
+- [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019) *
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] The Laws of Simplicity -- John Maeda (2006)
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
