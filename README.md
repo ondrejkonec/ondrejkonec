@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Ondřej and I work as a UX Engineer.
 
-- 📖  I’m currently reading book called "**Universal Principles of Design**" by William Lidwell and "**Designing Interfaces**" by Jenifer Tidwell
+- 📖  I’m currently reading book called "**Expressive design systems**" by Yesenia Perez-Cruz and "**Designing Interfaces**" by Jenifer Tidwell
 - ✏️  I’m currently writing article about "**Accessible colors**"
 
 
