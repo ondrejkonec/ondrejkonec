@@ -13,9 +13,18 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Building Design Systems: Unify User Experiences Through a Shared Design Language -- Sarrah Vesselov, Taurie Davis (2019)
 - [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
 ### Want to read
-- [ ] Designing Interfaces -- Jenifer Tidwell (2005) *
-- [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019) *
+- [ ] Emotional Design: Why We Love (or Hate) Everyday Things -- Don Norman (2003)
+- [ ] Graphic Design Thinking: Beyond Brainstorming -- Ed. Lupton, Ellen (2011)
+- [ ] Thinking in Systems: A Primer -- Donella Meadows (2008)
+- [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
+- [ ] About Face: The Essentials of Interaction Design -- Alan Cooper (2007)
+- [ ] Blue Ocean Strategy -- W Chan Kim (2004)
+- [ ] Org Design for Design Orgs: Building and Managing In-House Design Teams -- Peter Merholz (2016)
+- [ ] Designing Interfaces -- Jenifer Tidwell (2005)
+- [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Steal Like an Artist: 10 Things Nobody Told You About Being Creative -- Austin Kleon (2012)
+- [ ] The Lean Startup -- Eric Ries (2011)
 - [ ] The Laws of Simplicity -- John Maeda (2006)
 - [ ] Prototyping for Designers: Developing the Best Digital and Physical Products -- Kathryn McElroy (2016)
 - [ ] Design for the Mind: Seven Psychological Principles of Persuasive Design -- Victor Yocco (2016)
