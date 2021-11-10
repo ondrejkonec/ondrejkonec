@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Ondřej and I work as a User Experience Designer.
 
-- 📖  I’m currently reading book called "**Expressive design systems**" by Yesenia Perez-Cruz and "**Designing Interfaces**" by Jenifer Tidwell
+- 📖  I’m currently reading book called "**Expressive design systems**" by Yesenia Perez-Cruz, "**Lean UX**" by Jeff Gothelf, "**The Lean Startup**" by Eric Ries and "**UX Strategy**" by Jaime Levy
 - ✏️  I’m currently writing article about "**Accessible colors**"
 
 
