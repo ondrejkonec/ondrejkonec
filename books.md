@@ -12,7 +12,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] UX for Beginners -- Joel Marsh (2015)
 - [x] Building Design Systems: Unify User Experiences Through a Shared Design Language -- Sarrah Vesselov, Taurie Davis (2019)
 - [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
-- [x] UX Strategy: How to Devise Innovative Digital Products that People Want -- Jaime Levy (2015)
 - [x] Designing Interfaces -- Jenifer Tidwell (2005)
 ### Want to read
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
