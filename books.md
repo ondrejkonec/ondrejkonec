@@ -14,6 +14,8 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
 - [x] Designing Interfaces -- Jenifer Tidwell (2005)
 ### Want to read
+- [ ] Information Architecture -- Peter Morville (2015)
+- [ ] The Systems Thinker -- Albert Rutherford (2018)
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
 - [ ] The Lean Startup -- Eric Ries (2011)
 - [ ] Lean UX: Applying Lean Principles to Improve User Experience -- Jeff Gothelf, Josh Seiden (2013)
