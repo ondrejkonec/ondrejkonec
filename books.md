@@ -50,13 +50,10 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Laura Kalbag - Accessibility for Everyone (2017)
 - [ ] Guide to MVP Design System -- Stacey Eddy (2020)
 - [ ] When Coffee and Kale Compete -- Alan Klement (2018)
-- [ ] Practical SVG -- Chris Coyier (2016)
 - [ ] A Pattern Language -- Christopher Alexander (1977)
 - [ ] The Timeless Way of Building -- Christopher Alexander (1979)
 - [ ] Universal Principles of Design -- William Lidwell (2003)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
-- [ ] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner (2017)
-- [ ] Smashing Book 5 -- Smashing Magazine (2016)
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
 - [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
 
@@ -76,6 +73,8 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] CSS Secrets: Better Solutions to Everyday Web Design Problems -- Lea Verou (2014)
 - [x] Responsive Design: Patterns & Principles -- Ethan Marcotte (2015)
 - [x] Responsible Responsive Design - Scott Jehl (2011)
+- [x] SVG Animations: From Common UX Implementations to Complex Responsive Animation -- Sarah Drasner (2017)
+- [x] Smashing Book 5 -- Smashing Magazine (2016)
 
 ## 2017
 - [x] Vzhůru do (responziv­ního) webdesignu - Martin Michálek (2017)
@@ -88,6 +87,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] Sass for Web Designers -- Dan Cederholm (2013)
 - [x] HTML Semantics -- Smashing Magazine (2012)
 - [x] Going Responsive -- Karen McGrane (2015)
+- [x] Practical SVG -- Chris Coyier (2016)
 
 ## 2015
 - [x] HTML5 for Web Designers -- Jeremy Keith (2010)
