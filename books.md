@@ -2,21 +2,17 @@
 
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
-## 2021
+## 2022
 ### Read
-- [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
-- [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
-- [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
-- [x] Form Design Patterns -- Adam Silver (2018)
-- [x] Color Accessibility Workflows -- Geri Coady (2017)
-- [x] UX for Beginners -- Joel Marsh (2015)
-- [x] Building Design Systems: Unify User Experiences Through a Shared Design Language -- Sarrah Vesselov, Taurie Davis (2019)
-- [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
-- [x] Designing Interfaces -- Jenifer Tidwell (2005)
-### Want to read
+- [] Nothing
+### Reading
 - [ ] Information Architecture -- Peter Morville (2015)
-- [ ] The Systems Thinker -- Albert Rutherford (2018)
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
+- [ ] The Art of Color -- Johannes Itten (1961)
+- [ ] Grid Systems in Graphic Design -- Josef Muller-Brockmann (1996)
+### Want to read
+
+- [ ] The Systems Thinker -- Albert Rutherford (2018)
 - [ ] The Lean Startup -- Eric Ries (2011)
 - [ ] Lean UX: Applying Lean Principles to Improve User Experience -- Jeff Gothelf, Josh Seiden (2013)
 - [ ] Emotional Design: Why We Love (or Hate) Everyday Things -- Don Norman (2003)
@@ -56,8 +52,16 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
 - [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
-
-
+## 2021
+- [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
+- [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
+- [x] Practical UI Patterns for Design Systems -- Diana MacDonald (2019)
+- [x] Form Design Patterns -- Adam Silver (2018)
+- [x] Color Accessibility Workflows -- Geri Coady (2017)
+- [x] UX for Beginners -- Joel Marsh (2015)
+- [x] Building Design Systems: Unify User Experiences Through a Shared Design Language -- Sarrah Vesselov, Taurie Davis (2019)
+- [x] The What, How, and Why of Design Systems -- Andrea Hock (2020)
+- [x] Designing Interfaces -- Jenifer Tidwell (2005)
 ## 2020
 - [x] Atomic Design -- Brad Frost (2016)
 - [x] Front-end Style Guides -- Anna Debenham (2017)
