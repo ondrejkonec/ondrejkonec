@@ -1,16 +1,12 @@
 # Hi! 👋 I'm Ondřej and I'm designer and developer.
 
-- 📖  I’m currently reading books called "**Expressive design systems**" by Yesenia Perez-Cruz, "**Lean UX**" by Jeff Gothelf, "**The Lean Startup**" by Eric Ries and "**UX Strategy**" by Jaime Levy
-- ✏️  I’m currently writing article about "**Accessible colors**" and "**What is Information Architecture**"
-
-
 ### Connect with me:
 
 [www.ondrejkonecny.cz](https://www.ondrejkonecny.cz/kontakt/)
 
 
 ---
-I have [created a list of books](https://github.com/ondrejko/ondrejko/blob/main/books.md) I want to read for 2021.
+I have [created a list of books](https://github.com/ondrejko/ondrejko/blob/main/books.md) I want to read for 2022.
 ### 📕 Latest Blog Posts:
 [Design systémy 101 (CZ)](https://www.ondrejkonecny.cz/blog/design-systemy-101/) <br>
 [Jak funguje CSS Box Model (CZ)](https://frontend.garden/jak-funguje-css-box-model/) <br>
