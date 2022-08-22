@@ -28,7 +28,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 - [ ] About Face: The Essentials of Interaction Design -- Alan Cooper (2007)
 - [ ] Blue Ocean Strategy -- W Chan Kim (2004)
-- [ ] Designing Web Interfaces -- Bill Scott (2009)
 - [ ] Org Design for Design Orgs: Building and Managing In-House Design Teams -- Peter Merholz (2016)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] Steal Like an Artist: 10 Things Nobody Told You About Being Creative -- Austin Kleon (2012)
@@ -45,7 +44,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines -- Jeff Johnson (2010)
 - [ ] Designing for Emotion -- Aarron Walter (2011)
 - [ ] Pattern Language -- Christopher Alexander (1977)
-- [ ] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
 - [ ] A Web for Everyone (Designing Accessible User Experiences) -- Sarah Horton (2014)
 - [ ] Inclusive Design Patterns -- Pickering Heydon (2016)
 - [ ] Inclusive Design for a Digital World Designing with Accessibility in Mind -- Regine M. Gilbert (2019)
@@ -59,6 +57,8 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
 ## 2022
 - [x] How to Make Sense of Any Mess -- Abby Covert (2014)
+- [x] Designing Web Interfaces -- Bill Scott (2009)
+- [x] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
 ## 2021
 - [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
