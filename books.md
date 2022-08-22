@@ -6,6 +6,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
 - [ ] Stuck? Diagrams Hekps -- Abby Covert (2022)
 - [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
+- [ ] User Story Mapping - Discover the Whole Story, Build the Right Product -- Jeff Patton (2014)
 
 ### Want to read
 - [ ] Information Architecture -- Peter Morville (2015)
@@ -25,7 +26,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] Emotional Design: Why We Love (or Hate) Everyday Things -- Don Norman (2003)
 - [ ] Graphic Design Thinking: Beyond Brainstorming -- Ed. Lupton, Ellen (2011)
 - [ ] Thinking in Systems: A Primer -- Donella Meadows (2008)
-- [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 - [ ] About Face: The Essentials of Interaction Design -- Alan Cooper (2007)
 - [ ] Blue Ocean Strategy -- W Chan Kim (2004)
 - [ ] Org Design for Design Orgs: Building and Managing In-House Design Teams -- Peter Merholz (2016)
@@ -37,7 +37,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] The Principles of Beautiful Web Design -- Jason Beaird (2010)
 - [ ] The Essential Guide to User Interface Design: An Introduction to GUI Design -- Wilbert O Galitz (1997)
 - [ ] Hooked: How to Build Habit-Forming Products -- Nir Eyal (2013)
-- [ ] User Story Mapping - Discover the Whole Story, Build the Right Product -- Jeff Patton (2014)
 - [ ] Global UX Design and Research in a Connected World -- Whitney Quesenbery (2011)
 - [ ] Design for How People Think - Using Brain Science to Build Better Products -- D John Whalen Ph (2019)
 - [ ] Simple and Usable: Web, Mobile, and Interaction Design (Voices That Matter) -- Giles Colborne (2010)
@@ -59,6 +58,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] How to Make Sense of Any Mess -- Abby Covert (2014)
 - [x] Designing Web Interfaces -- Bill Scott (2009)
 - [x] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
+- [x] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 ## 2021
 - [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
