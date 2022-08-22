@@ -2,15 +2,16 @@
 
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
-## 2022
 ### Reading
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
+- [ ] Stuck? Diagrams Hekps -- Abby Covert (2022)
+- [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
+
+### Want to read
 - [ ] Information Architecture -- Peter Morville (2015)
-- [ ] How to Make Sense of Any Mess -- Abby Covert (2014)
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
 - [ ] The Art of Color -- Johannes Itten (1961)
 - [ ] Grid Systems in Graphic Design -- Josef Muller-Brockmann (1996)
-### Want to read
 - [ ] Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation -- Tim Brown (2009)
 - [ ] Living with Complexity -- Donald A. Norman (2016)
 - [ ] Things That Make Us Smart: Defending Human Attributes in the Age of the Machine -- Donald A. Norman (1994)
@@ -56,7 +57,8 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] The Timeless Way of Building -- Christopher Alexander (1979)
 - [ ] Universal Principles of Design -- William Lidwell (2003)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
-- [ ] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
+## 2022
+- [x] How to Make Sense of Any Mess -- Abby Covert (2014)
 ## 2021
 - [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
 - [x] Refactoring UI -- Steve Schoger, Adam Wathan (2018)
