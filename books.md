@@ -4,14 +4,17 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ### Want to read
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
-- [ ] Measure What Matters -- John Doerr (2018)
-- [ ] Hooked: How to Build Habit-Forming Products -- Nir Eyal (2013)
-- [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 - [ ] Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation -- Tim Brown (2009)
+- [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
+- [ ] Practical UI -- Adham Dannaway (2022)
+- [ ] Measure What Matters -- John Doerr (2018)
+- [ ] UX/UI Process and Principles -- Jan Mraz (2021)
+- [ ] Hooked: How to Build Habit-Forming Products -- Nir Eyal (2013)
 - [ ] Thinking in Systems: A Primer -- Donella Meadows (2008)
 - [ ] User Story Mapping - Discover the Whole Story, Build the Right Product -- Jeff Patton (2014)
 - [ ] Stuck? Diagrams Hekps -- Abby Covert (2022)
-- [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
 - [ ] The Art of Color -- Johannes Itten (1961)
 ## 2022
@@ -20,7 +23,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] How to Make Sense of Any Mess -- Abby Covert (2014)
 - [x] Designing Web Interfaces -- Bill Scott (2009)
 - [x] Frontend Architecture for Design Systems -- Micah Godbolt (2016)
-- [x] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 - [x] Articulating Design Decisions: Communicate with Stakeholders, Keep Your -- Tom Greever (2015)
 ## 2021
 - [x] Design Systems: A practical guide to creating design languages for digital products -- Alla Kholmatova (2017)
