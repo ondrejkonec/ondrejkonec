@@ -1,5 +1,5 @@
-# Hi! 👋 I'm Ondřej and I'm designer and developer.
-
+# Hi! I'm Ondřej 👋 
+<blockquote><p><em>Senior Product Designer @CloudTalk</em></p></blockquote>
 ### Connect with me:
 
 [www.ondrejkonecny.cz](https://www.ondrejkonecny.cz/kontakt/)
