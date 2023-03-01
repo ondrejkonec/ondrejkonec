@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[www.ondrejkonecny.com](https://www.ondrejkonecny.com/contact/)
+[www.ondrejkonecny.com](https://www.ondrejkonecny.com/)
 
 
 ---
