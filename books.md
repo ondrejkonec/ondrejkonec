@@ -2,13 +2,14 @@
 
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
+### Reading
+- [ ] The Design of Everyday Things -- Don Norman (1988)
+- [ ] Practical UI -- Adham Dannaway (2022)
 ### Want to read
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
 - [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
 - [ ] Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation -- Tim Brown (2009)
-- [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] Don't Make Me Think: A Common Sense Approach to Web Usability -- Steve Krug (2000)
-- [ ] Practical UI -- Adham Dannaway (2022)
 - [ ] Measure What Matters -- John Doerr (2018)
 - [ ] UX/UI Process and Principles -- Jan Mraz (2021)
 - [ ] Hooked: How to Build Habit-Forming Products -- Nir Eyal (2013)
