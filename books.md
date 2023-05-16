@@ -3,8 +3,8 @@
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
 ### Reading
+- [ ] The Field Guide to Human-Centered Design --IDEO (2015)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
-- [ ] Practical UI -- Adham Dannaway (2022)
 ### Want to read
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
 - [ ] Hack the Design System: Revolutionize the way your organization scales design -- Elisa Pyrhonen (2019)
@@ -17,6 +17,7 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] User Story Mapping - Discover the Whole Story, Build the Right Product -- Jeff Patton (2014)
 - [ ] Stuck? Diagrams Hekps -- Abby Covert (2022)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
+- [ ] Practical UI -- Adham Dannaway (2022)
 - [ ] The Art of Color -- Johannes Itten (1961)
 ## 2022
 - [x] The Systems Thinker -- Albert Rutherford (2018)
