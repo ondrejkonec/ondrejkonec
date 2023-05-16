@@ -3,7 +3,7 @@
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
 ### Reading
-- [ ] The Field Guide to Human-Centered Design --IDEO (2015)
+- [ ] The Field Guide to Human-Centered Design -- IDEO (2015)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 ### Want to read
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
