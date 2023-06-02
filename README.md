@@ -1,4 +1,4 @@
-# Hi! I'm Ondřej 👋 
+# Hi! I'm Ondřej.
 <blockquote><p><em>Senior Product Designer @CloudTalk</em></p></blockquote>
 
 ### Connect with me:
