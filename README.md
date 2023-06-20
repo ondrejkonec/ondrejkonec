@@ -12,5 +12,5 @@ I have [created a list of books](https://github.com/ondrejko/ondrejko/blob/main/
 [OOCSS - Object Oriented CSS](https://www.ondrejkonecny.com/blog/oocss-object-oriented-css/) <br>
 [Basic structure of Design Systems](https://www.ondrejkonecny.com/blog/basic-structure-of-design-systems/) <br>
 [How the CSS box model works](https://www.ondrejkonecny.com/blog/how-the-css-box-model-works/) <br>
-[The evolution of effective CSS writing](https://www.ondrejkonecny.com/blog/the-evolution-of-effective-css-writing/) <br>
+[The evolution of effective CSS writing](https://www.ondrejkonecny.com/blog/the-evolution-of-effective-css-writing/)
 
