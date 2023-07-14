@@ -4,6 +4,7 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ### Reading
 ### Want to read
+- [ ] Less But Better -- Dieter Rams (2014)
 - [ ] The Field Guide to Human-Centered Design -- IDEO (2015)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
 - [ ] Expressive Design Systems -- Yesenia Perez-Cruz (2019)
