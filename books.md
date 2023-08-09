@@ -3,6 +3,7 @@
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
 ### Reading
+- [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
 ### Want to read
 - [ ] Less But Better -- Dieter Rams (2014)
 - [ ] The Field Guide to Human-Centered Design -- IDEO (2015)
