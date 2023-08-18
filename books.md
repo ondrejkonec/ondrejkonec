@@ -3,8 +3,10 @@
 List of books that I've read in the past and todo list for current year. Very ambitious.
 
 ### Reading
-- [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
+- [ ] JavaScript: The Definitive Guide -- David Flanagan (1996)
+
 ### Want to read
+- [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
 - [ ] Less But Better -- Dieter Rams (2014)
 - [ ] The Field Guide to Human-Centered Design -- IDEO (2015)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
@@ -88,7 +90,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [x] JQuery Cookbook -- Cody Lindley (2009)
 - [x] HTML5 a CSS3 -- Elizabeth Castro, Bruce Hyslop (2012)
 - [x] PHP & MySQL - Web Development -- Laura Thomson, Luke Welling (2001)
-- [x] JavaScript: The Definitive Guide -- David Flanagan (1996)
 
 ## 2013
 - [x] Bulletproof Web Design (2005)
