@@ -4,9 +4,9 @@ List of books that I've read in the past and todo list for current year. Very am
 
 ### Reading
 - [ ] JavaScript: The Definitive Guide -- David Flanagan (1996)
+- [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
 
 ### Want to read
-- [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
 - [ ] Less But Better -- Dieter Rams (2014)
 - [ ] The Field Guide to Human-Centered Design -- IDEO (2015)
 - [ ] The Design of Everyday Things -- Don Norman (1988)
