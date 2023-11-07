@@ -5,6 +5,7 @@ List of books that I've read in the past and todo list for current year. Very am
 ### Reading
 - [ ] JavaScript: The Definitive Guide -- David Flanagan (1996)
 - [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
+- [ ] Practical UI -- Adham Dannaway (2022)
 
 ### Want to read
 - [ ] Less But Better -- Dieter Rams (2014)
@@ -22,7 +23,6 @@ List of books that I've read in the past and todo list for current year. Very am
 - [ ] User Story Mapping - Discover the Whole Story, Build the Right Product -- Jeff Patton (2014)
 - [ ] Stuck? Diagrams Hekps -- Abby Covert (2022)
 - [ ] Outcomes Over Output -- Josh Seiden (2019)
-- [ ] Practical UI -- Adham Dannaway (2022)
 - [ ] The Art of Color -- Johannes Itten (1961)
 - [ ] Jobs to be Done -- Anthony Ulwick (2016)
 - [ ] Customers Know You Suck: Actionable CX Strategies to Better Understand, Attract, and Retain Customers -- Debbie Levitt (2022)
