@@ -5,6 +5,7 @@ List of books that I've read in the past and todo list for current year. Very am
 ### Reading
 - [ ] JavaScript: The Definitive Guide -- David Flanagan (1996)
 - [ ] Eloquent JavaScript: A Modern Introduction to Programming -- Marijn Haverbeke (2010)
+- [ ] Pure React -- Dave Ceddia (2017)
 - [ ] Practical UI -- Adham Dannaway (2022)
 
 ### Want to read
